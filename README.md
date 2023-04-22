@@ -1,4 +1,4 @@
-### Hello, My name is the zkwizard. 
+### Hello, I am the zkWizard. 
 ### This README.md will serve as your guide to acessing my data library
 ### Good luck!
 
