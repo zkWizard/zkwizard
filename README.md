@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, My name is the zkwizard. 
+### This README.md will serve as your guide to acessing my data library
+### Good luck!
 
 <!--
 **zkWizard/zkwizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
