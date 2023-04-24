@@ -1,5 +1,6 @@
 ### Hello, I am the zkWizard. 
 ### This README.md will serve as your guide to acessing my data library
+### Using technology, I believe that we can connect every human on the planet.
 ### Good luck!
 
 <!--
