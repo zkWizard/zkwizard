@@ -1,7 +1,10 @@
 ### Hello, I am the zkWizard. 
-### This README.md will serve as your guide to acessing my data library
-### Using technology, I believe that we can connect every human on the planet.
-### Good luck!
+### This README.md will serve as your guide to acessing my data library.
+### *insert technical sentence here*
+### *insert motivational sentence here*
+### *insert cryptic sentence here*
+
+### If you are talented and interested in building large scale internet applications for billions of users, feel free to reach out to me.
 
 <!--
 **zkWizard/zkwizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
