@@ -1,7 +1,7 @@
 Hello, my name is Quinn "The Wizard" 🧙
 ================================
 
-I'm a full stack developer currently building projects across multiple emerging tech markets...
+I'm a full stack developer currently building companies across multiple emerging tech markets...
 --------------
 <p align="left">
 Outsiders: The Militia of Light
