@@ -1,13 +1,18 @@
 Hello, my name is Quinn "The Wizard" 🧙
 ================================
 
-I'm a full stack developer currently building projects across multiple emerging tech markets.
+I'm a full stack developer currently building projects across multiple emerging tech markets...
 --------------
+<p align="left">
+Outsiders: The Militia of Light
+
+
 
 * 🌍  Los Angeles, California
 * 🖥️  See my portfolio at [.com](http://www..com/)
 * ✉️  You can contact me at [wizard@orbittech.xyz](mailto:wizard@orbittech.xyz)
-* 🧠  Actively working on ---
+* 🧠  
+ 
 
 ### Skills
 
@@ -29,15 +34,11 @@ I'm a full stack developer currently building projects across multiple emerging 
 <a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a>
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 </p>
-
+--------------
 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/zkwizard" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/quinn-the-wizard-41b956266/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-
-
-
 
 
 
