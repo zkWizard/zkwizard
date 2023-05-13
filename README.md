@@ -1,14 +1,13 @@
-01001000 01100101 01101100 01101100 01101111 00101100 00100000 01001001 00100000 01100001 01101101 00100000 01010100 01101000 01100101 00100000 01010111 01101001 01111010 01100001 01110010 01100100
+Hello, my name is Quinn "The Wizard" 🧙
 ================================
 
-Full stack developer
+I'm a full stack developer currently building projects across multiple emerging tech markets.
 --------------
 
 * 🌍  Los Angeles, California
 * 🖥️  See my portfolio at [.com](http://www..com/)
 * ✉️  You can contact me at [wizard@orbittech.xyz](mailto:wizard@orbittech.xyz)
-* 🧠  I'm learning Unreal & Machine Learning!
-<!-- * 🤝  I'm open to collaborating on anything decentralized! -->
+* 🧠  Actively working on ---
 
 ### Skills
 
