@@ -6,7 +6,7 @@ Full stack developer
 
 * 🌍  Los Angeles, California
 * 🖥️  See my portfolio at [.com](http://www..com/)
-* ✉️  You can contact me at [.com](mailto:.com)
+* ✉️  You can contact me at [wizard@orbittech.xyz](mailto:wizard@orbittech.xyz)
 * 🧠  I'm learning Unreal & Machine Learning!
 <!-- * 🤝  I'm open to collaborating on anything decentralized! -->
 
@@ -30,7 +30,6 @@ Full stack developer
 <a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored.svg" width="36" height="36" alt="IPFS" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 <a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a>
-<a href="https://www.optimism.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/optimism-colored.svg" width="36" height="36" alt="Polygon" /></a>
 </p>
 
 
