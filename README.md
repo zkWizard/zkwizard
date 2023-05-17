@@ -1,4 +1,4 @@
-Hello, my name is Quinn "The Wizard" 🧙
+Hello, my name is Quinn "The Wizard" 
 ================================
 
 I'm a full stack developer currently building companies across multiple emerging tech markets...
