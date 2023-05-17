@@ -4,14 +4,20 @@ Hello, my name is Quinn "The Wizard" 🧙
 I'm a full stack developer currently building companies across multiple emerging tech markets...
 --------------
 <p align="left">
-Outsiders: The Militia of Light
 
-
-
+### About me: 
 * 🌍  Los Angeles, California
 * 🖥️  See my portfolio at [.com](http://www..com/)
 * ✉️  You can contact me at [wizard@orbittech.xyz](mailto:wizard@orbittech.xyz)
 * 🧠  
+
+<p align="left">
+ 
+ ### Current projects:
+ * A
+ * B
+ * C
+ * D 
  
 
 ### Skills
