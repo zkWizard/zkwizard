@@ -1,5 +1,6 @@
 Hello, my name is Quinn "The Wizard" 
 ================================
+![npm](https://img.shields.io/npm/v/npm)
 
 #### I am a full stack developer currently building companies across multiple emerging markets 
 
