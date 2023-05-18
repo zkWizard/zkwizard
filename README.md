@@ -7,8 +7,8 @@ Hello, my name is Quinn "The Wizard"
 
 ### About me: 
 * 🌍  Los Angeles, California
-* 🖥️  See my portfolio at [.com](http://www..com/)
-* ✉️  You can contact me at [wizard@orbittech.xyz](mailto:wizard@orbittech.xyz)
+* 🖥️  Keep up to date with Outsiders [here](http://www..com/)
+* ✉️  For questions or inquiries contact me [here](mailto:wizard@orbittech.xyz)
 * 🧠  
 
 <p align="left">
