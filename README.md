@@ -6,7 +6,7 @@ Hello, my name is Quinn "The Wizard"
 <p align="left">
 
 ### About me: 
-* 🌍  Los Angeles, California
+* 🌍  Based in Los Angeles, California
 * 🖥️  Keep up to date with Outsiders [here](http://www..com/)
 * ✉️  For questions or inquiries contact me [here](mailto:wizard@orbittech.xyz)
 * 🧠  
