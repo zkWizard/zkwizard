@@ -1,8 +1,8 @@
 Hello, my name is Quinn "The Wizard" 
 ================================
 
-I'm a full stack developer currently building companies across multiple emerging tech markets...
---------------
+#### I am a full stack developer currently building companies across multiple emerging markets 
+
 <p align="left">
 
 ### About me: 
