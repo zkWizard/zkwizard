@@ -1,7 +1,12 @@
 Hello, my name is Quinn "The Wizard" 
 ================================
 ![npm](https://img.shields.io/npm/v/npm)
-![Version](https://img.shields.io/github/package-json/v/zkwizard/zkwizard)
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+
+
+
+
 
 #### I am a full stack developer currently building companies across multiple emerging markets 
 
