@@ -15,13 +15,23 @@ Hello, my name is Quinn "The Wizard"
 <p align="left">
  
  ## Current projects:
- * ***Outsiders: The Militia of Light*** website
- * *Outsiders: The Militia of Light* iOS mobile app
- * *Outsiders: The Militia of Light* web/mobile app database management
- * *Detour Marketplace* website
- * *Detour Marketplace* iOS mobile app
- * *RCVRY* website
- * *RCVRY* iOS mobile app
+ 
+ ### Outsiders: The Milita of Light
+ 
+ * Front end build 
+ * iOS mobile app
+ * Database to communicate between the two
+ 
+ ### Detour 
+ 
+ * Front end build
+ * iOS mobile app
+ 
+ ### RCVRY
+ 
+ * Front end 
+ * iOS mobile app 
+ 
  
 
 ### Skills
