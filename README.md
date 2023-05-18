@@ -6,19 +6,22 @@ Hello, my name is Quinn "The Wizard"
 
 <p align="left">
 
-### About me: 
+## About me: 
 * 🌍  Based in Los Angeles, California
-* 🖥️  Keep up to date with Outsiders [here](http://www..com/)
+* 🖥️  Keep up to date with me [here](http://www..com/)
 * ✉️  For questions or inquiries contact me [here](mailto:wizard@orbittech.xyz)
 * 🧠  
 
 <p align="left">
  
- ### Current projects:
- * A
- * B
- * C
- * D 
+ ## Current projects:
+ * *Outsiders: The Militia of Light* website
+ * *Outsiders: The Militia of Light* iOS mobile app
+ * *Outsiders: The Militia of Light* web/mobile app database management
+ * *Detour Marketplace* website
+ * *Detour Marketplace* iOS mobile app
+ * *RCVRY* website
+ * *RCVRY* iOS mobile app
  
 
 ### Skills
