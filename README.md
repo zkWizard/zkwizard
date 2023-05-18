@@ -15,7 +15,7 @@ Hello, my name is Quinn "The Wizard"
 <p align="left">
  
  ## Current projects:
- * *Outsiders: The Militia of Light* website
+ * ***Outsiders: The Militia of Light*** website
  * *Outsiders: The Militia of Light* iOS mobile app
  * *Outsiders: The Militia of Light* web/mobile app database management
  * *Detour Marketplace* website
