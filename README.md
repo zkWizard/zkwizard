@@ -3,6 +3,8 @@ Hello, my name is Quinn "The Wizard"
 ![npm](https://img.shields.io/npm/v/npm)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
+
 
 
 
@@ -17,13 +19,13 @@ Hello, my name is Quinn "The Wizard"
 
 <p align="left">
  
- ## Current projects:
+ ## Actively building:
  
  ### Outsiders: The Milita of Light
  
- * Front end build 
+ * Front end
  * iOS mobile app
- * Database to communicate between the two
+ * Database structure
  
  ### Detour 
  
