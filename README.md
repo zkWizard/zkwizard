@@ -37,7 +37,23 @@ Hello, my name is Quinn "The Wizard"
  * Front end 
  * iOS mobile app 
  
+ ### Orbit Technologies
  
+ * *REDACTED* 
+* *REDACTED* 
+* *REDACTED* 
+ 
+ ### DigiTerra
+
+* *REDACTED* 
+* *REDACTED* 
+* *REDACTED* 
+
+ ### MS1 Enterprises
+ 
+* *REDACTED* 
+* *REDACTED* 
+* *REDACTED* 
 
 ### Skills
 
