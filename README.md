@@ -22,35 +22,29 @@ Hello, my name is Quinn "The Wizard"
  ## Actively building:
  
  ### Outsiders: The Milita of Light
- 
  * Front end
  * iOS mobile app
  * Database structure
  
  ### Detour 
- 
  * Front end build
  * iOS mobile app
  
  ### RCVRY
- 
  * Front end 
  * iOS mobile app 
  
  ### Orbit Technologies
- 
- * *REDACTED* 
+* *REDACTED* 
 * *REDACTED* 
 * *REDACTED* 
  
  ### DigiTerra
-
 * *REDACTED* 
 * *REDACTED* 
 * *REDACTED* 
 
  ### MS1 Enterprises
- 
 * *REDACTED* 
 * *REDACTED* 
 * *REDACTED* 
