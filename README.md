@@ -27,15 +27,15 @@ Hello, my name is Quinn "The Wizard"
  * Database structure
  
  ### Detour 
- * Front end build
- * iOS mobile app
+ * Front end (The Detour Marketplace)
+ * iOS mobile app (The Detour Experience)
  
  ### RCVRY
  * Front end 
  * iOS mobile app 
  
  ### Orbit Technologies
-* *REDACTED* 
+* Front End Environment 
 * *REDACTED* 
 * *REDACTED* 
  
