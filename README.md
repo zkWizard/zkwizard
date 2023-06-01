@@ -35,7 +35,7 @@ Hello, my name is Quinn "The Wizard"
  * iOS mobile app 
  
  ### Orbit Technologies
-* Front End Environment 
+* Front end environment 
 * *REDACTED* 
 * *REDACTED* 
  
@@ -45,7 +45,7 @@ Hello, my name is Quinn "The Wizard"
 * *REDACTED* 
 
  ### MS1 Enterprises
-* *REDACTED* 
+* Proprietary commercial real estate data management system 
 * *REDACTED* 
 * *REDACTED* 
 
