@@ -45,7 +45,9 @@ Hello, my name is Quinn "The Wizard"
 * *REDACTED* 
 
  ### MS1 Enterprises
-* Proprietary commercial real estate data management system 
+Research & development focucsed in areas such as: 
+* Enterprise accounting APIs
+* Real estate management systems, and associated macro level asset management systems 
 * *REDACTED* 
 * *REDACTED* 
 
