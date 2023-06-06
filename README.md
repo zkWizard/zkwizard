@@ -26,6 +26,13 @@ Hello, my name is Quinn "The Wizard"
  * iOS mobile app
  * Database structure
  
+  ### MS1 Enterprises
+
+Research & development focucsed in areas such as: 
+* Enterprise accounting APIs
+* Real estate management systems
+* Associated macro level asset management systems 
+ 
  ### Detour 
  * Front end (The Detour Marketplace)
  * iOS mobile app (The Detour Experience)
@@ -44,12 +51,7 @@ Hello, my name is Quinn "The Wizard"
 * *REDACTED* 
 * *REDACTED* 
 
- ### MS1 Enterprises
-Research & development focucsed in areas such as: 
-* Enterprise accounting APIs
-* Real estate management systems, and associated macro level asset management systems 
-* *REDACTED* 
-* *REDACTED* 
+
 
 -------------------------
 ### Experience
