@@ -13,7 +13,7 @@ Hello, my name is Quinn "The Wizard"
 ## About me: 
 #### I am a founder & full stack developer building companies across multiple industries 
 * 🌍  Based in Los Angeles, California
-* 🧠  I'm interested in gaming, cryptography, Ethereum, ZK, AI/ML, iOS, and real estate
+* 🧠  Interested in gaming, cryptography, Ethereum, ZK, AI/ML, iOS, and real estate
 * ✉️  For any questions or inquiries contact me [here](mailto:wizard@orbittech.xyz)
 
 
