@@ -20,7 +20,7 @@ Hello, my name is Quinn "The Wizard"
  
 <p align="left">
  
-## Actively building:
+## Projects I'm actively working on:
  
  
 ### MS1 Enterprises
