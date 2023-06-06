@@ -21,19 +21,27 @@ Hello, my name is Quinn "The Wizard"
  
 <p align="left">
  
- ## Actively building:
+## Actively building:
  
- ### Outsiders: The Milita of Light
- * Front end
- * iOS mobile app
- * Database structure
  
-  ### MS1 Enterprises
+### MS1 Enterprises
 
 Research & development focucsed in areas such as: 
 * Enterprise accounting APIs
 * Real estate management systems
 * Associated macro level asset management systems 
+ 
+ 
+### Outsiders: The Milita of Light
+ * Front end
+ * iOS mobile app
+ * Database structure
+
+### Orbit Technologies
+ 
+* Front end environment 
+* *REDACTED* 
+* *REDACTED* 
  
  ### Detour 
 
@@ -45,10 +53,7 @@ Bridging sunstainability with technology in the global textile manufacturing ind
  * Front end 
  * iOS mobile app 
  
- ### Orbit Technologies
-* Front end environment 
-* *REDACTED* 
-* *REDACTED* 
+
  
  ### DigiTerra
 * *REDACTED* 
