@@ -34,6 +34,8 @@ Research & development focucsed in areas such as:
 * Associated macro level asset management systems 
  
  ### Detour 
+
+Bridging sunstainability with technology in the global textile manufacturing industry.
  * Front end (The Detour Marketplace)
  * iOS mobile app (The Detour Experience)
  
