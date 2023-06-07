@@ -49,6 +49,7 @@ Research & development focucsed in areas such as:
 Bridging sunstainability with technology in the global textile manufacturing industry.
  * Front end (The Detour Marketplace)
  * iOS mobile app (The Detour Experience)
+ * Custom water waste tracking system for a hemp cultivation facility in central California
  
  ### RCVRY
  * Front end 
