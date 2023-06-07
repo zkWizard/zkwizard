@@ -10,10 +10,11 @@ Hello, my name is Quinn "The Wizard"
 
 <p align="left">
 
-## I am a founder & full stack developer currently working in multiple industries
-* 🌍  Based in Los Angeles, California
+## I am a founder & full stack developer
 * 🧠  Interested in gaming, cryptography, Ethereum, ZK, AI/ML, iOS, and real estate
+* 💻  Currently working on projects in multiple emerging industries
 * ✉️  For any questions or inquiries contact me [here](mailto:wizard@orbittech.xyz)
+
 
 
  
@@ -99,12 +100,8 @@ Bridging sunstainability with technology in the global textile manufacturing ind
 
 
 <!--
-### Hello, I am Quinn The Wizard. 
 ### This README.md will serve as your guide to acessing my data library.
-### *insert technical sentence here*
-### *insert motivational sentence here*
-### *insert cryptic sentence here*
-
+* 🌍  Based in Los Angeles, California
 ### If you are talented and interested in building large scale internet applications for billions of users, feel free to reach out to me.
 <p align="left">
   
