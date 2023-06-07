@@ -40,6 +40,7 @@ Research & development focucsed in areas such as:
  
 * Front end environment 
 * iOS mobile application
+* ZK optimization
 * *REDACTED* 
 * *REDACTED* 
  
