@@ -11,7 +11,7 @@ Hello, my name is Quinn "The Wizard"
 <p align="left">
 
 ## I am a founder & full stack developer
-* 🧠  Interested in gaming, cryptography, Ethereum, ZK, AI/ML, iOS, and real estate
+* 🧠  Interested in data, cryptography, Ethereum, ZK, AI/ML, and iOS
 * 💻  Currently working on projects in multiple emerging industries
 * ✉️  For any questions or inquiries contact me [here](mailto:wizard@orbittech.xyz)
 
