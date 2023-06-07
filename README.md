@@ -39,6 +39,7 @@ Research & development focucsed in areas such as:
 ### Orbit Technologies
  
 * Front end environment 
+* iOS mobile application
 * *REDACTED* 
 * *REDACTED* 
  
