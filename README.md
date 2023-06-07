@@ -38,7 +38,7 @@ Research & development focucsed in areas such as:
 
 ### Orbit Technologies
  
-* Front end environment 
+* Front end 
 * iOS mobile application
 * ZK optimization
 * *REDACTED* 
