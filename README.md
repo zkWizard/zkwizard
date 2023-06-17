@@ -13,7 +13,7 @@ Hello, my name is Quinn "The Wizard"
 ## I am a founder & full stack developer
 * 🧠  Interested in data, cryptography, Ethereum, ZK, AI/ML, and iOS
 * 💻  Currently working on projects in multiple emerging industries
-* ✉️  For any questions or inquiries contact me [here](mailto:wizard@orbittech.xyz)
+* ✉️  For any questions or inquiries, contact me [here](mailto:wizard@orbittech.xyz)
 
 
 
@@ -26,13 +26,13 @@ Hello, my name is Quinn "The Wizard"
  
 ### MS1 Enterprises
 
-Research & development focucsed in areas such as: 
+Research & development focused in areas such as: 
 * Enterprise accounting APIs
 * Real estate management systems
-* Associated macro level asset management systems 
+* Associated macro-level asset management systems 
  
  
-### Outsiders: The Milita of Light
+### Outsiders: The Militia of Light
  * Front end
  * iOS mobile app
  * Database structure
@@ -47,10 +47,10 @@ Research & development focucsed in areas such as:
  
  ### Detour 
 
-Bridging sunstainability with technology in the global textile manufacturing industry.
+Bridging sustainability with technology in the global textile manufacturing industry.
  * Front end (The Detour Marketplace)
  * iOS mobile app (The Detour Experience)
- * Water-waste tracking system for a central California based hemp farm
+ * Water-waste tracking system for a central California-based hemp farm
  
  ### RCVRY
  * Front end 
@@ -100,9 +100,9 @@ Bridging sunstainability with technology in the global textile manufacturing ind
 
 
 <!--
-### This README.md will serve as your guide to acessing my data library.
+### This README.md will serve as your guide to accessing my data library.
 * 🌍  Based in Los Angeles, California
-### If you are talented and interested in building large scale internet applications for billions of users, feel free to reach out to me.
+### If you are talented and interested in building large-scale internet applications for billions of users, feel free to reach out to me.
 <p align="left">
   
  
