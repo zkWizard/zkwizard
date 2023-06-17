@@ -25,7 +25,7 @@ Hello, my name is Quinn "The Wizard"
  
  
 ### MS1 Enterprises
-_Research & development focused on areas such as: _
+*Research & development focused on areas such as:*
 
 * Enterprise accounting APIs
 * Real estate management systems
@@ -46,7 +46,7 @@ _Research & development focused on areas such as: _
 * *REDACTED* 
  
  ### Detour 
-_Bridging sustainability with technology in the global textile manufacturing industry._
+*Bridging sustainability with technology in the global textile manufacturing industry.*
 
  * Front end (The Detour Marketplace)
  * iOS mobile app (The Detour Experience)
