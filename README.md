@@ -57,7 +57,7 @@ Hello, my name is Quinn "The Wizard"
  * iOS mobile app 
 
  ### Vanguard Genetics
-_ Research & experimentation in cannabis cultivation automation._
+*Ongoing experimentation in cannabis cultivation automation.*
 
 * *REDACTED*
 * *REDACTED* 
