@@ -55,7 +55,10 @@ Bridging sustainability with technology in the global textile manufacturing indu
  ### RCVRY
  * Front end 
  * iOS mobile app 
- 
+
+ ### Vanguard Genetics
+* *REDACTED*
+* *REDACTED* 
 
  
  ### DigiTerra
