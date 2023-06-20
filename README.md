@@ -50,8 +50,8 @@ Hello, my name is Quinn "The Wizard"
  ### Detour 
 *Bridging sustainability with technology in the global textile manufacturing industry.*
 
- * Front end (The Detour Marketplace)
- * iOS mobile app (The Detour Experience)
+ * Front end (*"The Detour Marketplace"*)
+ * iOS mobile app (*"The Detour Experience"*)
  * Water-waste tracking system for a central California-based hemp farm
  
  ### RCVRY
