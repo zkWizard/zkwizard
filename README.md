@@ -27,12 +27,14 @@ Hello, my name is Quinn "The Wizard"
 ### MS1 Enterprises
 *Research & development focused on areas such as:*
 
+* Private equity
+* Commercial real estate automation 
 * Enterprise accounting APIs
-* Real estate management systems
-* Associated macro-level asset management systems 
- 
+
  
 ### Outsiders: The Militia of Light
+*Management & development focused on both pre-launch & post-launch operations.*
+
  * Front end
  * iOS mobile app
  * Database structure
