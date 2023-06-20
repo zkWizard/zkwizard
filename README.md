@@ -36,7 +36,7 @@ Hello, my name is Quinn "The Wizard"
 *Management & development focused on both pre-launch & post-launch operations.*
 
  * Front end
- * iOS mobile app
+ * iOS mobile application
  * Database structure
 
 ### Orbit Technologies
